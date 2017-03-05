@@ -1,0 +1,277 @@
+{
+    "Taraguzla": {
+        "nombre": "Taraguzla N´Tae, hijo de Akalaseyi, hijo de Barrupanti de 1",
+        "raza": "Hombre de 1",
+        "profesion": "Teúrgo (hechicero) y matemático; amo y señor del Laberinto",
+        "alineamiento": "Legal malvado",
+        "idiomas": "1, 7, 9, 11",
+        "descripcion": [
+          "Podría tener 35 años o 70. Es un hechicero y maldita sea si reconoces la edad de un hechicero",
+          "Aunque de raza cetrina, es más blanco que la media",          
+          "Barbilla afilada, nariz de guindilla. Ojos brillantes, quizás peligrosos (pupilas negras y diminutas)",
+          "Le faltan dos dedos",
+          "Delgado y encorvado",
+          "incluso con chapines (coturnos) no era demasaido alto"
+        ],
+        "indumentaria": [
+          "Lleva un enorme turbante, un tafetán que puede ser púrpura, verde bosque o azul y escarpines",
+          "Lleva colgada al cuello la llave-prisma así como una serie de abalorios y objetos mágicos",
+          "siempre llevaba un (pluma, abrecartas, <em>whatever</em>) para rascarse el oído"
+        ],
+        "habilidades": [
+          "magia"
+        ],
+        "rasgos": [
+          "podría vestir anticuado (de las épocas de su abuelo)",
+          "De respingo fácil, asustadizo como un ratón pero peligroso como un áspid",
+          "petulante, maniático, atormentado",
+          "piensa en voz alta",
+          "provocó uno de sus ataques de ira"
+        ],
+        "psicológico": [
+          "Es conservador, incluso para la época. Muy estricto en algunos puntos, aunque muy adelantado en otros aspectos (no es demasiado religioso)",
+          "Asexual",
+          "Megalómano, histriónico, un individuo enloquecido por su genio, por ser diferente, por no pensar como nadie, lo que también le ha aislado. Es un personaje atormentado por sus muchas vivencias y contradicciones",
+          "Algo de <em>asperger</em> tiene",
+          "Dolor crónico (gota), que agria su carácter",
+          "Desprecia al vulgo. Las matemáticas y el orden, la rectitud como dioses de la realidad y la conducta. Estoico",
+          "Es susceptible al halago (si es lo suficiente sutil) pero no tonto",
+          "Muchas manías y rarezas",
+          "<strong>Gustos personales:</strong> La magia, las matemáticas, la psicología, la botánica, la alquimia, la astronomía, la medicina, la física, la mecánica, etc. El conocimiento, la disciplina, la rectitud. Varias manifestaciones del arte. En realidad, es un ser sensible, o al menos la sensibilidad poco empática de muchos artistas. Le encantan los acertijos, los jeroglíficos y los puzles, las series matemáticas, los ingenios y los mecanismos (poleas, etc), de los que gusta filosofar _a parte de las cuestiones del laberinto— con su <a href=\"index.php?grupo=romelie#el-medico\" class=\"romelie\">médico</a>",
+          "Destacable también una relación ambigua respecto a las arañas, único bicho al que respeta pues le libraba de otros bichos (a los que odia), pero desde lo de su problema con las arañas gigantes les tiene un odio profundo.",
+          "<strong>Forma de hablar:</strong> voz aguda y chirriante. Tono de superioridad con regusto de resentimiento. Pedante y autoritario (tiene carácter). Es culto y sabe de lo que habla aunque a sea demasiado lapidario (acostumbrado a habérselo podido permitir siempre).",
+          "<strong>Forma de pensar:</strong> Demasiada imaginación es su principal defecto y su principal virtud. Obsesivo, compulsivo, histriónico, lapidario, casi delirante. Tener las cosas tan claras (ser tan analista) le lleva a la radicalidad y a la locura. Muy peculiar, el personaje hace tiempo que engulló a la persona."
+        ],
+        "relaciones": [
+          "Tiene gran apego por su <a href=\"index.php?grupo=romelie#el-medico\" class=\"romelie\">médico</a> (es como su <em>Watson (Holmes)</em> o su <em>Wilson (House)</em>) y su <a href=\"index.php?grupo=romelie#chambelan\" class=\"romelie\">chambelán</a>, así como por sus principales esbirros",
+          "Despechado por Meliaura (a la que por ello condena al Laberinto)",
+          "También tiene cierto apego por el curioso <a href=\"index.php?grupo=romelie#tito-klas\" class=\"romelie\">Tito-Klas</a>, del que se siente \"responsable\" y le consiente cosas que a otros esbirros ni de broma consentiría",
+          "Evidentemente, su mayor amor es su Laberinto y él mismo (muy egoísta).",
+          "Rechaza a las Tribus porque no es hombre de guerra, sino de arte y ciencia",
+          "En su día, estuvo cerca de alguos de sus hermanos, aunque a algunos los condenara al Laberinto"
+        ],
+        "frases": [
+          "Mi físico (o salud) no está a la altura de mi cerebro (mente) (Taraguzla es enfermizo y se recrimina mucho por ello (podría ponerle tos de perro), es cierta debilidad que lo aleja de la excelencia)",
+          "No estamos con nadie por lo que estamos contra todos"
+        ],
+        "tags": [
+            "displicencia"
+        ],
+        "familiares": {
+            "": ""
+        },
+        "notas": [
+            "<strong>Objetivos:</strong> El Laberinto, al que llama obra, proyecto, investigación. El estudio de la naturaleza humana para explicarse a sí mismo (esto último no lo admitirá). Servir a la ciencia (mecánica, ingeniería). El conocimiento. Resistirse al “Mal” (Las Tribus) y cuidarse muy bien del “Bien”. Desarrollar el décimo nivel (y más) de su Laberinto (la magia aleatoria; ser un metaMago de renombre). También quería tener descendencia (con Meliaura) pero no pudo ser (por temor a que las Tribus quisieran matarlo, por tener a alguien a quien ceder su Llave-prisma y no dejarlo en manos de las Tribus para usos torticeros).",
+            "<strong>Evolución:</strong> Taraguzla es un hechicero cruel y poderoso. Tiene una fortaleza donde trata a sus sirvientes —goblins— con mano de hierro. OJO, ESTE ASPECTO ES IMPORTANTE. Y PODRÍA SER PARTE DEL CAMBIO FINAL, DESPUÉS (CUANDO LOS PROBLEMAS) YA NO ES TAN CRUEL CON LOS GOBLINS (SI PUEDO). Y tiene un Laberinto donde mete gente para estudiar su resistencia y comportamiento. También tiene condenados a sus propios hermanos al laberinto. Trataré de mostrar como evolución lo que en realidad es la propia complejidad de Taraguzla: de alguien altanero, malvado y todopoderoso pasará a otro más cercano, más entrañable, más humano (aunque siempre fue ambas). Pero entiendo que se comprenderá mejor y dramatizará más como cambio/evolución. En cualquier caso, sí experimenta cierto cambio al verse con el agua al cuello (como nunca se había visto antes). Cómo las penurias de alto calado consiguen que vea la vida de otra manera, mucho más tranquila, humilde (cuando se pierde o puede perderse todo) (de hecho, es también una crítica a la manía de la gente a juzgar por la apariencias). Taraguzla tiene un lado bueno y un lado malo (como todo el mundo; una de las bases de la novela es esa: no hay buenos tan buenos ni malos tan malos realmente). Como artificio, trataré de mostrar el lado malo en la primera mitad de la novela y el lado bueno en la segunda (aunque siempre fue como es). La transformación del personaje se verá realmente con su aprendiz (alguien sin sentimientos se vuelve paternalista).",
+            "Taraguzla es uno de los Representantes de estas Tribus ——aunque reniegue de ellas— y estas Tribus planean abrir el Portal al Inframundo) para conquistar los Mundos del Maná"
+        ],
+        "texto": [
+            "Muchas veces, ni siquiera podía esperar a la actuación de un criado, se deslizaba raudo como una culebra hasta el cuadro díscolo y lo enderezaba él mismo, hasta una horizontal que hasta el mejor de los albañiles habría aplaudido",
+            "<abbr>la suya era una sonrisa de avispa, no apta para bebés</abbr>",
+            "Era nervioso de rascarse todo siempre; se bañaba poco, pero era después de bañarse cuando más le picaba todo",
+            "Sus pupilas estallaron en sendos vórtices... y los vórtices volvieron a solidificarse en unas pupilas, negras y diminutas."
+        ],
+        "mecano": {
+            "Breve biografía": "Hijo y nieto de hechiceros. El laberinto lo empezó a construir su abuelo Barrupanti. Él hizo el primer nivel y las canteras, así como las estancias donde mora. Su padre Akalaseyi continuó el proyecto. Quiso aumentar la obra de Barrupanti añadiendo más niveles pero fracasó. Tuvo hasta 11 hijos para que le ayudaran. El mediano —Taraguzla— fue el que demostró más talento. Finalmente, tras la muerte de Akalaseyi, se hizo con el control del Laberinto. Continuó la obra de su padre aumentándolo y además, lo modificó para que se pudiera salir de él con una ecuación. Trabajó sobre todo con dos de sus hermanos: Karantashi (alquimista) y Sharma Kotan (nigromante).",
+            "conflicto": "La vida es insensible y desnaturalizada pero se deja estudiar. En su desesperada ansia por conocer la naturaleza humana (cree que por culpa de la hipocresía hay que ponerlos al límite para estudiar su verdadera naturaleza) ha orientado el Laberinto para estudiar al ser humano, su psique (la versión de su abuelo era para ocasionalmente castigar a ciertos delincuentes), aunque en el fondo todo es un subterfugio para poder conocerse a sí mismo y si corrobora sus teorías (del mundo y la vida y por consiguiente de sí mismo), dejar de sufrir (algo que de sentido a su agonía) (en plan: sí, cualquiera en mi situación habría hecho la misma “maldad” que yo. Tú no lo has hecho -y niegas fervientemente cierta “atrocidad” así- porque no te has visto en la tesitura, porque sino, serías mucho peor que yo). <strong>Fobias personales:</strong> Pánico a no tener manera de saber a ciencia cierta cómo es en realidad. Si tiene el talento de su abuelo o sólo es un farsante que vive de las rentas. Si es bondadoso o malvado. Justo o tirano. En fin, si está preso de la locura o es su lucidez extrema la que le juega malas pasadas. Estudiando a otros individuos semejantes a él ansía entender todas las contradicciones que le chirrían en la mente. Frustraciones de la infancia y de la edad adulta. La hipocresía y la ignorancia. Sus propios miedos y fantasmas. La altanería y la codicia. Desprecia a \"Los Buenos\" y a \"Los Malos\" por creerse en posesión de la escurridiza verdad"
+        }
+    },
+    "El Médico": {
+        "nombre": "Kastanguluka de 1",
+        "raza": "Mezcla, padre de 9 y madre de 1",
+        "profesion": "Médico",
+        "alineamiento": "",
+        "idiomas": "1, 9, 7, 10",
+        "descripcion": [
+          "Ancho por igual pero sin curvas, como el lomo de un libro",
+          "Cabello moreno, y muy alborotado por naturaleza propia, no por falta de higiene",
+          "de complexión normal pero de extremidades muy delgadas",
+          "barba canosa?"
+        ],
+        "indumentaria": [
+          ""
+        ],
+        "habilidades": [
+          "Muy inteligente, sagaz, ingenioso y estrafalario",
+          "boticario, herbolista, zoólogo",
+          "muy cultivados en variopintas ciencias"
+        ],
+        "rasgos": [
+          "Cáustico",
+          "Siempre cruza las piernas de una forma muy graciosa",
+          "grandilocuente gesticulación"
+        ],
+        "psicológico": [
+          "Se aprieta el nervio del codo (por ejemplo mientras espera por Taraguzla) con paroxismo deleite"
+        ],
+        "relaciones": [
+          "Muy buena relación con <a href=\"index.php?grupo=romelie#taraguzla\" class=\"romelie\">Taraguzla</a> (de hecho es el único que le puede decir depende qué cosas)",
+          "Buena relación —por su carácter jovial— con casi todos los habitantes de Römelië"
+        ],
+        "frases": [
+          ""
+        ],
+        "tags": [
+            ""
+        ],
+        "familiares": {
+            "": ""
+        },
+        "notas": [
+            "Para ciertos temas más intelectuales —en este caso psicológicos— y conversar en general, <a href=\"index.php?grupo=romelie#taraguzla\" class=\"romelie\">Taraguzla</a> se junta con su Médico, otro de los estrambóticos personajes de Römelië, y suelen charlar mientras dan vueltas al Laberinto"
+        ],
+        "texto": [
+            "Y el médico rió, con una cadencia de carcajadas sísmicas, como si el hueso de la risa hubiera contagiado a todo su esqueleto"
+        ],
+        "mecano": {
+            "Breve biografía": "",
+            "conflicto": "Sobre todo últimamente está cada vez más preocupado por <a href=\"index.php?grupo=romelie#taraguzla\" class=\"romelie\">Taraguzla</a>"
+        }
+    },
+    "la aprendiz": {
+        "nombre": "Widrim Geistalt (o Widrin)",
+        "raza": "Mujer de 14",
+        "profesion": "Aprendiz de teúrgo",
+        "alineamiento": "Caótico neutral",
+        "idiomas": "14, 1, 9",
+        "descripcion": [
+          "delgada, pálida, viste de negro",
+          "ojos grandes color avellana ¿o levemente rasgados?",
+          "rapada la colleja hasta justo por encima de las orejas pero largo? (o recogido en moño) o pelo largo pero media cabeza rapada?",
+          "uñas pintadas de negro"
+        ],
+        "indumentaria": [
+          ""
+        ],
+        "habilidades": [
+          "dibuja bien"
+        ],
+        "rasgos": [
+          ""
+        ],
+        "psicológico": [
+          "fría, reservada, extravagante",
+          "lleva cortes en las muñecas",
+          "evita mirar a los ojos, esquiva, solitaria"
+        ],
+        "relaciones": [
+          "Buena con Taraguzla y con el médico"
+        ],
+        "frases": [
+          ""
+        ],
+        "tags": [
+            ""
+        ],
+        "familiares": {
+            "": ""
+        },
+        "notas": [
+            "Elizabeth Olsen",
+            "autopsias"
+        ],
+        "texto": [
+            "¿Sabes porqué te elegí a ti? Porque cuando (diseccionar un animal, ahorcar un goblin, viendo como moría uno de los aspirantes, algo así) no sufriste, pero tampoco disfrutaste (<a href=\"index.php?grupo=romelie#taraguzla\" class=\"romelie\">Taraguzla</a> sobre Widrim)",
+            "Taraguzla nunca tuvo que repetirle nada dos veces"
+        ],
+        "mecano": {
+            "como entró": "",
+            "por qué": "",
+            "conflicto": "",
+            "resuelto": ""
+        }
+    },
+    "el chambelán": {
+        "nombre": "",
+        "raza": "",
+        "profesion": "",
+        "alineamiento": "",
+        "idiomas": "",
+        "descripcion": [
+          ""
+        ],
+        "indumentaria": [
+          ""
+        ],
+        "habilidades": [
+          ""
+        ],
+        "rasgos": [
+          ""
+        ],
+        "psicológico": [
+          ""
+        ],
+        "relaciones": [
+          ""
+        ],
+        "frases": [
+          ""
+        ],
+        "tags": [
+            ""
+        ],
+        "familiares": {
+            "": ""
+        },
+        "notas": [
+            "Trata a <a href=\"index.php?grupo=romelie#taraguzla\" class=\"romelie\">Taraguzla</a> de \"Su Reverencia\"",
+            "usar \"ditirambo\""
+        ],
+        "texto": [
+            ""
+        ],
+        "mecano": {
+            "como entró": "",
+            "por qué": "",
+            "conflicto": "",
+            "resuelto": ""
+        }
+    },
+    "base": {
+        "nombre": "",
+        "raza": "",
+        "profesion": "",
+        "alineamiento": "",
+        "idiomas": "",
+        "descripcion": [
+          ""
+        ],
+        "indumentaria": [
+          ""
+        ],
+        "habilidades": [
+          ""
+        ],
+        "rasgos": [
+          ""
+        ],
+        "psicológico": [
+          ""
+        ],
+        "relaciones": [
+          ""
+        ],
+        "frases": [
+          ""
+        ],
+        "tags": [
+            ""
+        ],
+        "familiares": {
+            "": ""
+        },
+        "notas": [
+            ""
+        ],
+        "texto": [
+            ""
+        ],
+        "mecano": {
+            "como entró": "",
+            "por qué": "",
+            "conflicto": "",
+            "resuelto": ""
+        }
+    }
+}
